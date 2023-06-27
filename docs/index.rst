@@ -1,18 +1,18 @@
-#.mkdir New project && cd New project
+- mkdir New project && cd New project
 
-2. pipenv install django==4.2.0
+- pipenv install django==4.2.0
 
-3. pipenv shell
+- pipenv shell
 
-#. django-admin startproject config .
+- django-admin startproject config .
 
-#. py manage.py runserver
+- py manage.py runserver
 
-#. Starting development server at http://127.0.0.1:8000/
+- Starting development server at http://127.0.0.1:8000/
 
-#. Rocket!
+- Rocket!
 
-#. Quit the server with Ctrl+C.
+- Quit the server with Ctrl+C.
 
 .. contents:: Оглавление
    :depth: 2
