@@ -1,3 +1,6 @@
+Django quick start
+==================
+
 - mkdir New project && cd New project
 
 - pipenv install django==4.2.0
