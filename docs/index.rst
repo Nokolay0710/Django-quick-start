@@ -13,3 +13,6 @@
 #. Rocket!
 
 #. Quit the server with Ctrl+C.
+
+.. contents:: Оглавление
+   :depth: 2
