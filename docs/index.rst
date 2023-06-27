@@ -1,8 +1,8 @@
 1. mkdir New project && cd New project
 
-#. pipenv install django==4.2.0
+2. pipenv install django==4.2.0
 
-#. pipenv shell
+3. pipenv shell
 
 #. django-admin startproject config .
 
