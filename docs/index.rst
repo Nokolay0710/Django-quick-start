@@ -16,3 +16,5 @@
 
 .. contents:: Оглавление
    :depth: 2
+   :depth: 3
+   :depth: 4
