@@ -19,5 +19,6 @@ Django quick start
 
 .. contents:: Оглавление
    :depth: 2
-   :depth: 3
-   :depth: 4
+   
+   Django
+   Pipenv
