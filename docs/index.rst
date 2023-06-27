@@ -1,4 +1,4 @@
-#. mkdir New project && cd New project
+1. mkdir New project && cd New project
 
 #. pipenv install django==4.2.0
 
