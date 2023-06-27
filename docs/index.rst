@@ -17,8 +17,8 @@ Django quick start
 
 - Quit the server with Ctrl+C.
 
-.. contents:: Оглавление
-   :depth: 2
+.. toctree::
+    :maxdepth: 2
    
    Django
    Pipenv
