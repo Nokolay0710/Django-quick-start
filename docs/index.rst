@@ -20,5 +20,4 @@ Django quick start
 .. toctree::
     :maxdepth: 2
    
-   Django
-   Pipenv
+  index
